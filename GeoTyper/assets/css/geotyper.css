@@ -1,0 +1,42 @@
+body {
+	margin: 20%;
+}	
+
+input {
+	height: 45px;
+	width: 100%;
+	font-size: 25px;
+	color: dimgray;
+}
+
+.correct {
+	color:	white;
+	background-color: #239023; 
+}
+
+#completed {
+	color:	white;
+	background-color: #239023; 
+}
+
+.error {
+	background-color: #ff1a1a; 
+}
+
+div {
+	line-height: 22px;
+}
+
+#path {
+	margin-bottom: 5%;
+	padding-bottom: 0px;
+}
+
+#allText {
+	border: 3px solid gray;
+	margin: 10% 0;
+	background-color: #dae7f1;
+	font-size: 20px;
+	margin-top: 0px;
+}
+	
